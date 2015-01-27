@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>bloquelema</name>
+	<displayName><![CDATA[Bloque para crear lemas]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Bloque para crear lemas en cualquier parte de la tienda.]]></description>
+	<author><![CDATA[Jose A Gomez]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Estás seguro de que quieres desinstalarlo?]]></confirmUninstall>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

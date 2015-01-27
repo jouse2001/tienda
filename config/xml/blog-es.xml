@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ES - Blog Ecommerce de PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/es/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/es</link>
+	<description></description>
+	<lastBuildDate>Mon, 26 Jan 2015 14:55:18 +0000</lastBuildDate>
+	<language>es-ES</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>Renovar la tienda online: aspectos SEO que no debes olvidar</title>
+		<link>https://www.prestashop.com/blog/es/renovar-la-tienda-online-aspectos-seo-que-debes-olvidar/</link>
+		<comments>https://www.prestashop.com/blog/es/renovar-la-tienda-online-aspectos-seo-que-debes-olvidar/#comments</comments>
+		<pubDate>Mon, 26 Jan 2015 09:30:55 +0000</pubDate>
+		<dc:creator><![CDATA[Gary Le Masson]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=12493</guid>
+		<description><![CDATA[<p>¿Qué aspectos SEO hay que tener en cuenta a la hora de renovar una tienda online? ¿Cómo puedes asegurarte de que tu nueva tienda conservará el posicionamiento que has conseguido hasta ahora? En este artículo presentamos todos los elementos SEO que hay que comprobar durante un proyecto de renovación de una tienda online. ¿A quién [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/renovar-la-tienda-online-aspectos-seo-que-debes-olvidar/">Renovar la tienda online: aspectos SEO que no debes olvidar</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>¿Qué aspectos SEO hay que tener en cuenta a la hora de renovar una tienda online? ¿Cómo puedes asegurarte de que tu nueva tienda conservará el posicionamiento que has conseguido hasta ahora? En este artículo presentamos todos los elementos SEO que hay que comprobar durante un proyecto de renovación de una tienda online.</p>
+<p><span id="more-12493"></span></p>
+<h4 style="color: #76b32a">¿A quién le afecta?</h4>
+<p>Este artículo está dirigido fundamentalmente a los vendedores que ya tienen una tienda online y quieren renovarla.</p>
+<p>Un caso típico es el del cambio de programa de e-commerce. Por ejemplo, puede que usaras una tecnología distinta y hayas decidido pasarte a <a href="http://www.prestashop.com">PrestaShop</a> como hacen miles de vendedores cada año. Otra posibilidad: tenías una versión antigua de PrestaShop y has decidido renovar tu tienda online para disfrutar de las últimas funcionalidades de PrestaShop.</p>
+<p><strong style="color: #c91202">IMPORTANTE:</strong><br />
+Las tareas recomendadas a continuación deben realizarse antes de pasar de la tienda online antigua a la nueva.</p>
+<p><strong style="color: #c91202">ATENCIÓN:</strong><br />
+Este artículo no está pensado para las tiendas que quieren cambiar su nombre de dominio: el trabajo SEO que hay que realizar en ese caso es distinto y no se aborda en este documento.</p>
+<h4 style="color: #76b32a">¿Cuáles son las ventajas y por qué asegurar la migración?</h4>
+<ul style="padding-left: 30px">
+<li>El tráfico directo que llegue a tus páginas antiguas se redirigirá automáticamente a tu nuevo sitio web.</li>
+<li>Los enlaces dirigidos a las páginas de tu antigua tienda no generarán errores 404.</li>
+<li>Gracias al trabajo en la estructura, el SEO de tu tienda online seguirá siendo válido a largo plazo.</li>
+<li>Así garantizarás la continuidad de tu posicionamiento y no notarás apenas cambios en el tráfico después de la migración.</li>
+</ul>
+<h4 style="color: #76b32a">Los dos aspectos que tienes que estudiar antes de renovar tu tienda online:</h4>
+<ul style="padding-left: 30px">
+<li>La estructura de tu nuevo sitio</li>
+<li>Los redireccionamientos 301</li>
+</ul>
+<h2>Un poco de estructura</h2>
+<p>Si no lo has hecho ya… Te recomendamos que leas este artículo sobre <a href="http://www.prestashop.com/blog/es/como-estructurar-tu-tienda-online-con-las-palabras-clave-para-seo-parte-22/">la creación de una tienda online con una estructura pensada para el SEO</a>.</p>
+<h4 style="color: #76b32a">Diseña la estructura de tu nueva tienda online</h4>
+<p>El objetivo de esta fase preliminar es determinar qué categorías de producto vas a conservar en tu nueva tienda. El principio básico es conservar las que funcionan y modificar las demás.</p>
+<p>¿No renuevas tu tienda online para lograr mejores resultados? Pues no elimines las categorías que generan tráfico SEO y ventas. ¡Esas categorías deben estar sí o sí en tu nuevo sitio!</p>
+<h4 style="color: #76b32a">De regalo, un informe de Google Analytics. ¡Solo uno!</h4>
+<p>¿No sabes (todavía) cómo acceder a estos datos y tenías Google Analytics correctamente instalado en tu tienda antigua?</p>
+<p>Este informe personalizado de Google Analytics te ayudará a encontrar respuestas:</p>
+<p style="text-align: center"><a href="https://www.google.com/analytics/web/template?uid=fEb3DNQXT_-2j8aKs0I9MQ" target="_blank">Informe de SEO para e-commerce de PrestaShop</a> (Haz clic para añadir el informe)</p>
+<h4 style="color: #76b32a">¿Cómo mejorar la estructura de tu sitio?</h4>
+<p>Los proyectos de renovación son la excusa perfecta para cambiar lo antiguo e introducir nuevas mejoras:</p>
+<ul style="padding-left: 30px">
+<li>Visita las tiendas de la competencia e inspírate en sus buenas ideas: las prácticas de referencia funcionan en SEO (siempre que no copies y pegues).</li>
+<li>Repasa tu estudio semántico y busca las <a href="http://www.prestashop.com/blog/es/como-encontrar-las-palabras-clave-adecuadas-para-tu-tienda-online-la-guia-de-palabras-clave-para-seo-primera-parte/">palabras clave para SEO</a>.</li>
+<li>Si tienes alguna campaña Adwords, <a href="https://www.google.com/analytics/web/template?uid=6MOMFCgGSFWm8rEBqkJxgA" target="_blank">este análisis</a> sobre los términos de búsqueda te resultará útil. ¿Por qué? Porque corresponde a las palabras clave reales que escriben los visitantes procedentes de Adwords (no las palabras clave compradas)</li>
+</ul>
+<h2>Esta página ha cambiado de dirección</h2>
+<h4 style="color: #76b32a">¿Qué son los redireccionamientos 301?</h4>
+<p><span style="font-style: italic">En el mundo real…</span></p>
+<p><span style="font-style: italic">Cuando te mudas y quieres que el correo te llegue a una nueva dirección, rellenas formularios del tipo:</span></p>
+<p style="text-align: center">Antigua dirección postal -&gt; Nueva dirección postal</p>
+<p><span style="font-style: italic">En el mundo virtual…</span></p>
+<p><span style="font-style: italic">Ese proceso se llama redireccionamiento 301. Si cambias la URL de una página, tienes que informar a tu servidor para que todas las solicitudes se envíen a la nueva URL:</span></p>
+<p style="text-align: center">Antigua URL -&gt; 301 redirigir -&gt; Nueva URL</p>
+<h4 style="color: #76b32a">Los distintos casos de redireccionamiento 301:</h4>
+<ul style="padding-left: 30px">
+<li>El mínimo vital y obligatorio:
+<ul style="padding-left: 15px">
+<li>Redirecciona página a página, estableciendo un vínculo entre tu estructura antigua y la nueva.</li>
+</ul>
+</li>
+<li>Mi recomendación:
+<ul style="padding-left: 15px">
+<li>Faire des redirections page à page, en réalisant un lien entre votre ancienne structure et la nouvelle.</li>
+</ul>
+</li>
+</ul>
+<h4 style="color: #76b32a">Cuando hay que hacer un redireccionamiento 301:</h4>
+<ul style="padding-left: 30px">
+<li>Si la página antigua desaparece: haz un redireccionamiento a tu página de inicio.</li>
+<li>Si solo cambia la URL: redirige la URL antigua hacia la nueva.</li>
+</ul>
+<h4 style="color: #76b32a">Cómo encontrar todas las URL de tu sitio</h4>
+<p>Para encontrar todas las URL de tu sitio antiguo y del nuevo, te recomiendo utilizar una araña como <a href="http://home.snafu.de/tilman/xenulink.html" target="_blank">Xenu</a> (gratis) o <a href="http://www.screamingfrog.co.uk/seo-spider/" target="_blank">Screaming Frog SEO</a> (de pago).</p>
+<p>Con cualquiera de estas dos herramientas podrás obtener fácilmente una lista de las URL de tu sitio antiguo y del nuevo y exportarla a Excel.</p>
+<h4 style="color: #76b32a">Establecer una correspondencia entre las dos estructuras</h4>
+<p>Coge la estructura de árbol de tu sitio web antiguo e incluye la lista de las URL en una columna: tienes que redirigirlas todas (ya sea a su equivalente en la tienda nueva o a la página de inicio).</p>
+<p>Cuando hayas acabado, te recomiendo darle ese archivo Excel a tu desarrollador web para que lo integre en un archivo .htaccess en tu nueva tienda. Si te da miedo equivocarte, ¡recurre un profesional!</p>
+<h4 style="color: #76b32a">Dos casos en los que no hay que hacer redireccionamiento 301</h4>
+<ul style="padding-left: 30px">
+<li>Si la URL es la misma en el sitio nuevo que en el antiguo.</li>
+<li>Si creas una página nueva que no estaba en tu estructura antigua.</li>
+</ul>
+<h2>Llega la hora de la verdad</h2>
+<h4 style="color: #76b32a">Cuando tengas todo listo para publicar tu nueva tienda:</h4>
+<ul style="padding-left: 30px">
+<li>Pon tu dominio en mantenimiento reenviando el código 503</li>
+<li>Activa tu nueva tienda (no olvides incluir los redireccionamientos 301 en el .htaccess)</li>
+<li>Desactiva el código de mantenimiento y ya tendrás tu nuevo sitio listo.</li>
+<li>Comprueba inmediatamente los 301 haciendo clic en una URL antigua. ¿Te redirige automáticamente a la nueva URL?</li>
+<li>Verifica que el encabezado http que le da tu servidor a las URL antiguas incluye el código 301 (y no otro).</li>
+</ul>
+<p>Si todo es correcto, ¡felicidades, la migración ha sido un éxito!</p>
+<h4 style="color: #76b32a">¿Te ha gustado este artículo?</h4>
+<p>Fue un vendedor PrestaShop que estaba migrando su tienda quien me dio la idea para redactarlo.</p>
+<p>Si tienes preguntas, dudas o te gustaría que abordemos algún tema sobre SEO en 2015, ¡cuéntanoslo! Puedes usar Twitter <a href="https://twitter.com/prestashop" target="_blank">@PrestaShop</a>, o nuestra <a href="https://www.facebook.com/prestashop" target="_blank">página de Facebook</a>.</p>
+<p>¡Anímate a opinar! Los comentarios están a tu disposición.</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/renovar-la-tienda-online-aspectos-seo-que-debes-olvidar/">Renovar la tienda online: aspectos SEO que no debes olvidar</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/renovar-la-tienda-online-aspectos-seo-que-debes-olvidar/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cómo puede ayudar el marketing omnicanal a tu pequeño negocio</title>
+		<link>https://www.prestashop.com/blog/es/como-puede-ayudar-el-marketing-omnicanal-tu-pequeno-negocio/</link>
+		<comments>https://www.prestashop.com/blog/es/como-puede-ayudar-el-marketing-omnicanal-tu-pequeno-negocio/#comments</comments>
+		<pubDate>Mon, 26 Jan 2015 09:30:06 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=12506</guid>
+		<description><![CDATA[<p>La venta minorista está cambiando: los usuarios usan cada vez más sus teléfonos, tabletas y portátiles a la hora de comprar. Según un estudio de Forrester, el 70% de los compradores busca desde el móvil los productos que va a comprar en tienda. Y un informe del MIT asegura que el 80% comprueba antes los [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/como-puede-ayudar-el-marketing-omnicanal-tu-pequeno-negocio/">Cómo puede ayudar el marketing omnicanal a tu pequeño negocio</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>La venta minorista está cambiando: los usuarios usan cada vez más sus teléfonos, tabletas y portátiles a la hora de comprar. Según un estudio de Forrester, el 70% de los compradores busca desde el móvil los productos que va a comprar en tienda. Y un informe del MIT asegura que el 80% comprueba antes los precios online. ¿El resultado? Adiós a las técnicas tradicionales de marketing unidireccional. Ha llegado el marketing &#8220;omnicanal&#8221;.</p>
+<p>Las <a href="http://www.theguardian.com/media-network/media-network-blog/2013/jan/15/luxury-retailers-in-store-tech" target="_blank">grandes empresas</a> han realizado impresionantes esfuerzos multicanal&#8230; pero las tiendas pequeñas también pueden aprovecharlo para mejorar la experiencia del cliente, fidelizar y aumentar las ventas. Veamos qué es el marketing omnicanal y cómo puede ayudarte a dar vida a tu pequeño negocio.<br />
+<span id="more-12506"></span></p>
+<h2>Multicanal, intercanal y omnicanal</h2>
+<p>Seguro que has oído varios términos referidos al marketing en múltiples canales: ¿te suenan las palabras multicanal, intercanal y omnicanal? Son diferentes pero todas tienen algo en común: el objetivo final. En un entorno de compras hiperconectado como el actual, el objetivo es crear una experiencia de compra sencilla, coherente y auténtica (en cualquier momento y en cualquier lugar).</p>
+<p>Eso es lo que los expertos en marketing llaman &#8220;venta omnicanal&#8221;. Omni es en latín &#8220;todos&#8221;. Para los vendedores supone conectar y armonizar la información y la experiencia en todos los canales en los que están presentes. Es un paso más en las estrategias multicanal que ha suscitado todo tipo de comentarios, desde que es &#8220;intercanal bien hecho&#8221; a &#8220;un nuevo paradigma&#8221;. Algunos expertos van incluso más allá: ¡la estrategia omnicanal sin barreras implicaría una <a href="http://omnichannel.me/what-is-omnichannel/" target="_blank">nueva definición</a> de &#8220;tu&#8221; cliente!</p>
+<p>Pero lo más importante: el omnicanal implica la integración total del back-end. ¿Y en la práctica? Tu cliente debe poder buscar un producto online desde casa, pedirlo más tarde desde su teléfono o tableta y recogerlo en una tienda o de camino al trabajo.</p>
+<h2>El marketing omnicanal para tiendas online</h2>
+<p>¿Tu negocio es 100% online o tienes alguna tienda física? Sea cual sea la respuesta, con el marketing omnicanal ganarás visibilidad, mejorarás las conversiones y convertirás a los visitantes en clientes fieles. Aquí tienes unas sugerencias para empezar.</p>
+<h4 style="color: #46c0d7">Añade canales solo si tienen una finalidad</h4>
+<p>Estar en todos los sitios es muy tentador. Al fin y al cabo, es lo que quieren los clientes, ¿no? Sí, pero ante todo desean una gran experiencia. Y para dársela tendrás que centrarte primero en crear una presencia de calidad en uno o dos canales. ¡Después podrás ampliarla con la garantía de que lo haces de la forma más eficaz! ¿Por qué y para qué vas a entrar en ese nuevo canal? Piénsalo bien. Si aún no dominas el día a día de tu tienda online, puede que no estés preparado para abrir una tienda física.</p>
+<h4 style="color: #46c0d7">Genera confianza mediante la coherencia</h4>
+<p>Uno de los pilares del marketing omnicanal es la coherencia. Tus precios deben ser los mismos en tu tienda online, en los mercados virtuales y en tu tienda física (si la tienes). ¡Y también los descuentos! ¿Tienes descuentos dirigidos para incrementar las ventas en un canal concreto (solo online)? Explícalo claramente: que los clientes sepan que pueden confiar en tus precios compren donde compren.</p>
+<p>Otro elemento importante: proyectar una imagen de marca coherente. Puede ser algo tan sencillo como amoldar el diseño de tu web al de los folletos que tienes para el mercado local en el que vendes los sábados. O algo más complejo. Por ejemplo: el personal de tu tienda física debe tener la misma información sobre el cliente que el de la tienda online para poder dar el mismo servicio al comprador.</p>
+<h4 style="color: #46c0d7">Optimiza la organización entre bambalinas</h4>
+<p>El inventario es clave para la estrategia omnicanal. Muchos clientes buscan en Internet antes comprar en la tienda. O van a la tienda para ver artículo y luego lo compran desde su tableta. ¡Prepárate para ambos casos! Si un cliente descubre tus productos online, debes poder ofrecérselos en la tienda física&#8230; y al revés.</p>
+<p>El inventario es clave para la estrategia omnicanal. Muchos clientes buscan en Internet antes comprar en la tienda. O van a la tienda para ver artículo y luego lo compran desde su tableta. ¡Prepárate para ambos casos! Si un cliente descubre tus productos online, debes poder ofrecérselos en la tienda física&#8230; y al revés.</p>
+<p>Por último, el cliente quiere pagar de forma rápida, sencilla y segura esté donde esté&#8230; ¡y sin restricciones en los métodos de pago! Acepta todas las opciones, desde efectivo a tarjetas monedero, según tus canales.</p>
+<h4 style="color: #46c0d7">Dale un toque personal</h4>
+<p>La estrategia omnicanal no solo requiere coherencia, también personalización. El cliente espera que hables su idioma y entiendas sus necesidades. Aquí los pequeños negocios tienen ventaja frente a las grandes empresas: puedes centrarte en un nicho más reducido y ofrecer un mejor servicio. Usa los datos de ventas para crear campañas de marketing a medida. ¡Y personaliza la experiencia de compra con sugerencias bien seleccionadas y ofertas sorpresa!</p>
+<h4 style="color: #46c0d7">Implica a tus clientes</h4>
+<p>La única forma de ofrecer una experiencia personalizada es conociendo a tus clientes. Escúchalos en las redes sociales&#8230; y deja que decidan cuándo y con qué frecuencia quieren participar. Facilita el uso de los comentarios y las redes y permite que tus compradores programen la periodicidad de recepción de tu boletín.</p>
+<h2>Lo que tienes que recordar</h2>
+<ul>
+<li>Privilegia la calidad frente a la cantidad y entra en los canales con una finalidad</li>
+<li>Genera confianza mediante la coherencia de precios e imagen en todos los canales</li>
+<li>Optimiza el inventario, las formas de pago y envío y la logística interna</li>
+<li>Usa los datos del cliente para crear una experiencia de compra personalizada</li>
+<li>Anima a los clientes a participar en las redes sociales</li>
+</ul>
+<p>Las técnicas omnicanal no son solo para los peces gordos. Crear una experiencia de compra personalizada, integrada y coherente también es muy beneficioso para los negocios pequeños. ¿Ya tienes una estrategia omnicanal? Cuéntanos qué tal funciona.</p>
+<p>Si aún no vendes online, prueba el <a href="https://www.prestashop.com/">software de e-commerce de PrestaShop</a>. ¡Disfruta de un nuevo canal de venta en Internet!</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/como-puede-ayudar-el-marketing-omnicanal-tu-pequeno-negocio/">Cómo puede ayudar el marketing omnicanal a tu pequeño negocio</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/como-puede-ayudar-el-marketing-omnicanal-tu-pequeno-negocio/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cuatro reglas de oro para optimizar la página de pago e impulsar la conversión</title>
+		<link>https://www.prestashop.com/blog/es/cuatro-reglas-de-oro-para-optimizar-la-pagina-de-pago-e-impulsar-la-conversion/</link>
+		<comments>https://www.prestashop.com/blog/es/cuatro-reglas-de-oro-para-optimizar-la-pagina-de-pago-e-impulsar-la-conversion/#comments</comments>
+		<pubDate>Thu, 22 Jan 2015 03:00:17 +0000</pubDate>
+		<dc:creator><![CDATA[Camille Sila]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=12499</guid>
+		<description><![CDATA[<p>La mayor parte de la gente que cruza la puerta de una tienda acaba comprando, pero en Internet la tasa de conversión es bastante baja. ¿Cómo mejorar ese porcentaje? Esa es la gran pregunta que se plantean todos los vendedores online. Todos lo tenemos claro: el diseño del sitio, los vídeos y las fotos del [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/cuatro-reglas-de-oro-para-optimizar-la-pagina-de-pago-e-impulsar-la-conversion/">Cuatro reglas de oro para optimizar la página de pago e impulsar la conversión</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>La mayor parte de la gente que cruza la puerta de una tienda acaba comprando, pero en Internet la tasa de conversión es bastante baja. ¿Cómo mejorar ese porcentaje? Esa es la gran pregunta que se plantean todos los vendedores online.<br />
+Todos lo tenemos claro: el diseño del sitio, los vídeos y las fotos del producto desde distintos ángulos son clave para concretar una venta en una tienda virtual. Pero&#8230; nos olvidamos de que la página de pago también es un factor estratégico.</p>
+<p>David Chaouat, codirector de Ingenico Payment Services y experto en servicios de pago en línea, nos habla sobre este tema. Aquí tienes cuatro reglas de oro para optimizar la página de pago e incrementar la tasa de conversión.<br />
+<span id="more-12499"></span></p>
+<h2 style="color: #73bd43;">1. Elementos que dan confianza</h2>
+<p>Crear confianza durante la experiencia de compra es fundamental. ¡Si un cliente desconfía de tu tienda online, no comprará en ella!<br />
+¿Qué experiencia quieres ofrecerle a tu cliente durante el proceso de pago? Si tu marca es poco conocida o aún no tienes mucha visibilidad en el mercado, opta por un redireccionamiento visible a la página de un tercero de confianza, por ejemplo un proveedor de servicios de pago (PSP) o un banco. ¡La confianza que genera ese socio de prestigio te beneficiará! (Certificado SSL, referencia de la transacción, logos de bancos…)<br />
+Si tu marca ya es muy conocida e inspira confianza, puedes decantarte por una pasarela de pago integrada en la que no se vea el redireccionamiento a otra página. En ese caso, no olvides incluir los elementos básicos de una página de pago: certificado SSL, importe y referencia de la transacción y un logotipo muy reconocido y reconocible (del banco, de un PSP, de Verisign, etc.)</p>
+<h2 style="color: #73bd43;">2. Métodos de pago adaptados</h2>
+<p>Deja que tus clientes decidan cómo pagar: se sentirán más inclinados a comprar. Por ejemplo, un cliente holandés preferirá pagar con la pasarela &#8220;Ideal&#8221; y uno francés con la tarjeta &#8220;CB&#8221;. Asegúrate de que tu socio de pago oferta los métodos de pago principales y usa un sistema sencillo y transparente.<br />
+Adapta tu página de pago: apuesta por una visualización dinámica de los métodos de pago en función de la ubicación o la nacionalidad de tus clientes. Y no incluyas todas las opciones en un solo bloque, ¡segmenta y muestra solo lo pertinente!</p>
+<h2 style="color: #73bd43;">3. Personalización de la página con los colores de tu tienda</h2>
+<p>Te recomendamos personalizar un poco la página de pago de tu prestatario para que su estética no rompa con la de tu tienda online. Lo importante es que sea clara y fluida: basta con poner tu logo y utilizar los colores y el tipo de letra de tu sitio web. Si puedes, añade también tu número de asistencia telefónica, ¡te ayudará a recuperar la venta en caso de problemas!<br />
+¿Te preocupa mucho el cambio de estilo en el diseño? Incluye migas de pan y enlaces para volver a tu sitio. De todos modos, los clientes están bien informados y ya esperan ver una página de pago externa: cada vez les chocan menos estas diferencias de estilo.</p>
+<h2 style="color: #73bd43;">4. Página de pago adaptada a todos los soportes</h2>
+<p>Sin duda ya tendrás tu tienda online adaptada para distintos soportes (PC, tableta o teléfono móvil). ¡Sería una pena tirar por la borda todos tus esfuerzos por no ofrecer una página de pago adaptada! Si tu cliente está navegando desde su teléfono móvil, debe poder realizar el pago de una forma sencilla y práctica. ¿Tú comprarías si tuvieras que estar constantemente ampliando la pantalla o moviéndola de un lado para otro para introducir los datos de tu tarjeta?</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-18265" alt="ingenico" src="http://www.prestashop.com/blog/es/files/2015/01/ingenico.jpg" width="480" height="197" /></p>
+<p>Ingenico Payment es el socio ideal para poner en práctica los consejos de este artículo y mejorar tus ventas. Con el módulo de pago de Ingenico Payment además protegerás tu negocio frente al fraude: ¡disfruta de una actividad online próspera y sin sobresaltos!</p>
+<p><a href="http://addons.prestashop.com/es/pagos-prestashop-modulos/1798-ogone.html" target="_blank">Descarga gratuitamente Ingenico Payment</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/cuatro-reglas-de-oro-para-optimizar-la-pagina-de-pago-e-impulsar-la-conversion/">Cuatro reglas de oro para optimizar la página de pago e impulsar la conversión</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/cuatro-reglas-de-oro-para-optimizar-la-pagina-de-pago-e-impulsar-la-conversion/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Desmentimos la creencia popular de &#8220;a mayor catálogo, más ventas&#8221;</title>
+		<link>https://www.prestashop.com/blog/es/desmentimos-la-creencia-popular-de-mayor-catalogo-mas-ventas/</link>
+		<comments>https://www.prestashop.com/blog/es/desmentimos-la-creencia-popular-de-mayor-catalogo-mas-ventas/#comments</comments>
+		<pubDate>Wed, 21 Jan 2015 08:00:09 +0000</pubDate>
+		<dc:creator><![CDATA[Shabbir Nooruddin (Guest Contributor)]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=12464</guid>
+		<description><![CDATA[<p>Los vendedores online sienten a menudo la tentación de llenar su catálogo de artículos. Al fin y al cabo, a más productos, más ventas, ¿no? Y cuantos más productos vendas, más probabilidades habrá de que los visitantes encuentren algo que les guste y lo compren, ¿correcto? Sí, si tu tienda es Amazon o Walmart. Pero [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/desmentimos-la-creencia-popular-de-mayor-catalogo-mas-ventas/">Desmentimos la creencia popular de &#8220;a mayor catálogo, más ventas&#8221;</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Los vendedores online sienten a menudo la tentación de llenar su catálogo de artículos. Al fin y al cabo, a más productos, más ventas, ¿no?</p>
+<p>Y cuantos más productos vendas, más probabilidades habrá de que los visitantes encuentren algo que les guste y lo compren, ¿correcto?</p>
+<p>Sí, si tu tienda es Amazon o Walmart. Pero si tienes un pequeño negocio como todos nosotros, ¡necesitarás un milagro para gestionar un catálogo tan grande!</p>
+<p><span id="more-12464"></span></p>
+<h4><span style="color: #2f5288;">Por qué lo hacen Amazon y Walmart</span></h4>
+<p>Amazon y Walmart llevan muchos años de ventaja. En ese tiempo han perfeccionado el arte de vender de todo: es la base de su filosofía.</p>
+<p>Para poder vender de todo tienen que comprar al por mayor, gastar millones de dólares en almacenamiento de stock, vender con márgenes muy estrechos&#8230; y compensar posibles pérdidas con un gran volumen.</p>
+<p>También gastan millones y millones de dólares en publicidad. De hecho, Amazon es uno de los <a href="http://www.wordstream.com/articles/google-earnings" title="Google Adwords" target="_blank">mayores clientes de Google Adwords</a>.</p>
+<p>Te habrás dado cuenta de que hemos usado la palabra &#8220;millones&#8221; varias veces. ¿Por qué? Porque si no tienes precisamente millones para gastar en publicidad —y suponemos que no—, es muy improbable que puedas vender de todo y tener éxito.</p>
+<h4><span style="color: #2f5288;">Por qué los demás no lo hacemos (o no deberíamos)</span></h4>
+<p>La mayoría de los emprendedores de e-commerce no comete el pecado capital de intentar vender de todo, pero sí de vender demasiado.</p>
+<p>Y ya se sabe que &#8220;el que mucho abarca, poco aprieta&#8221;.</p>
+<p>Pero, ¿qué es &#8220;demasiado&#8221;? Pongamos que vas a abrir una tienda en el sector del café. Vender &#8220;demasiado&#8221; sería intentar ofertar todos los modelos de cafeteras y filtros de la historia y cientos de tipos de cafés.</p>
+<p>Amazon puede vender de todo porque lleva más de 20 años generando confianza en su marca. Una tienda nueva no tiene la misma reputación y tiene que pelear para conseguir clientes.</p>
+<h4><span style="color: #2f5288;">Menos es más</span></h4>
+<p>En el comercio electrónico, menos puede ser más para los negocios pequeños. Si vendes algo que se puede encontrar en Amazon, tienes que ser muy bueno para sobrevivir. Y para posicionarte frente a estos gigantes, a veces una selección reducida es la clave.</p>
+<p>Un catálogo reducido sugiere especialización. Nadie diría de Amazon: &#8220;Esta gente es experta en todo lo que vende. Seguro que me resuelven cualquier duda&#8221;.<br />
+Es más, Amazon ofrece tan poca información específica del producto&#8230; ¡que hay todo un sector de sitios web de terceros dedicados a evaluar sus artículos!</p>
+<p>En cambio, si encuentras una tienda online centrada en una sola línea de productos, sabes que son especialistas: responderán a tus dudas y te ayudarán a escoger el artículo adecuado. ¡Venden y asesoran, todo en uno!</p>
+<h4><span style="color: #2f5288;">Céntrate en un nicho</span></h4>
+<p>¿Qué significa &#8220;centrarse en un nicho&#8221;? Muy sencillo: elimina productos del catálogo y responde a una necesidad específica del cliente. Para saber qué productos eliminar, debes conocer a tu cliente. </p>
+<p>Un ejemplo: <a href="http://www.ecommercefuel.com/inside-relaunch-online-store/" title="Andrew Youderian" target="_blank">Andrew Youderian</a> que la mayoría de los clientes de su antigua tienda de motores para lanchas buscaba motores para montar en la proa. ¿Qué hizo? Dirigió su tienda a ese nicho concreto.</p>
+<p>Si ya tienes una tienda, repasa los pedidos e intenta identificar tendencias: probablemente algunos de tus productos se venden mucho mejor que otros. ¡Ahí es donde está tu oportunidad! Identifica la demanda y centra tus esfuerzos de marketing en las áreas en las que ya tengas una reputación como experto. </p>
+<p>Si aún no has abierto tu tienda, consulta los foros y secciones de Reddit de tu futuro mercado y encuentra denominadores comunes. Puedes crear tu negocio a partir de una demanda concreta. Otra opción es empezar con un enfoque más amplio e intentar especializarse cuando se conocen las tendencias.</p>
+<h4><span style="color: #2f5288;">Lo que tienes que recordar</span></h4>
+<p>Para las tiendas online pequeñas, menos es más. Primero crea una base de clientes sólida. Luego podrás pensar en ampliar tu catálogo (solo con productos cuidadosamente seleccionados que sepas que van a tener éxito entre tu público).</p>
+<h4><span style="color: #2f5288;">Sobre Shabbir:</span></h4>
+<p>Shabbir Nooruddin es emprendedor de comercio electrónico y bloguero en <a href="http://bootstrappingecommerce.com/" title="Bootstrapping Ecommerce" target="_blank">Bootstrapping Ecommerce</a>. Se dedica a crear negocios y soluciones de e-commerce y en su tiempo libre puedes encontrarlo en el gimnasio o pilotando sus maquetas de helicópteros.</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/desmentimos-la-creencia-popular-de-mayor-catalogo-mas-ventas/">Desmentimos la creencia popular de &#8220;a mayor catálogo, más ventas&#8221;</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/desmentimos-la-creencia-popular-de-mayor-catalogo-mas-ventas/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>3 remedios para la cuesta de enero en el comercio electrónico</title>
+		<link>https://www.prestashop.com/blog/es/3-remedios-para-la-cuesta-de-enero-en-el-comercio-electronico/</link>
+		<comments>https://www.prestashop.com/blog/es/3-remedios-para-la-cuesta-de-enero-en-el-comercio-electronico/#comments</comments>
+		<pubDate>Tue, 20 Jan 2015 08:48:22 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=12408</guid>
+		<description><![CDATA[<p>Puede que la Navidad haya terminado, pero las oportunidades para generar ventas online no. De hecho, la época posvacacional está más interesante que nunca en las tiendas de comercio electrónico gracias a la popularidad que han adquirido las tarjetas de regalo y las compras online en general. Muchos compradores evitan a toda costa las compras [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/3-remedios-para-la-cuesta-de-enero-en-el-comercio-electronico/">3 remedios para la cuesta de enero en el comercio electrónico</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Puede que la Navidad haya terminado, pero las oportunidades para generar ventas online no. De hecho, la época posvacacional está más interesante que nunca en las tiendas de comercio electrónico gracias a la popularidad que han adquirido las tarjetas de regalo y las compras online en general.</p>
+<p>Muchos compradores evitan a toda costa las compras de ciertos artículos durante las vacaciones, aprovechando que, después de las fiestas, los mismos productos estarán mucho más baratos. Los grandes descuentos posvacacionales son la estrategia más común para sacar todo el inventario, sin embargo, cuando se hacen a lo loco, pueden parecer gritos desesperados de socorro.<br />
+<span id="more-12408"></span></p>
+<p>Aquí te mostramos algunas ideas alternativas para asegurarte un negocio impecable tras la fiebre de las fiestas, y para afianzar las relaciones con tus clientes nuevos o ya existentes.</p>
+<h2 style="color: #5e8f71">Cambios y devoluciones</h2>
+<p>Tus clientes están agotados tras las fiestas y, sin duda, les asusta todo el proceso de cambios y devoluciones de sus compras. Si logras que esta experiencia se convierta en algo sencillo —o mejor aún, en algo agradable—, podrás convertir este aspecto tan deprimente de las fiestas en una oportunidad increíble para fidelizar clientes.</p>
+<p><strong>Los clientes insatisfechos también son personas</strong><br />
+Sabemos que trabajaste duro decorando tu tienda online para las fiestas y para asegurarte de que tus clientes tuvieran una experiencia espectacular. ¡No te rindas ahora! Puede que los cambios y las devoluciones no sean precisamente algo muy divertido, pero son una gran oportunidad para impresionar a tus clientes con un servicio atento y personalizado.</p>
+<p><strong>Ofrece un trato cercano con un chat instantáneo</strong><br />
+La mejor forma de facilitar el proceso de cambios y devoluciones es disponiendo de una política simple y clara en la página de tu tienda. Respalda esto con un chat en vivo mejorado. Esta es tu oportunidad de demostrar tus dotes de atención al cliente con ayuda cercana y en tiempo real. Como valor añadido, personaliza las ventanas de tu chat en vivo con fotos de personas reales, no con imágenes predeterminadas.</p>
+<p><strong>Disminuye las devoluciones con un incentivo que no podrán rechazar</strong><br />
+Mirándolo desde otra perspectiva, una devolución podría ser una gran oportunidad de conseguir un cliente fijo. ¿Por qué no ofrecer el envío gratis o un buen descuento si el cliente decide hacer un cambio en vez de solicitar el reembolso de su dinero? Ellos se llevarán una grata sorpresa y tú renovarás tu negocio.</p>
+<h2 style="color: #5e8f71">Ofertas y descuentos que marcan la diferencia</h2>
+<p>Normalmente no te diríamos que compitieras con los precios, pero el periodo navideño y posnavideño es una época única en la que los clientes esperan descuentos. Eso no significa que tengas que hacer lo mismo que los demás; encuentra una forma única de destacar mientras los clientes se preparan para gastar el dinero guardado de las Navidades en tarjetas regalo. Intenta alguna de estas opciones:</p>
+<p><strong>Dona parte de lo que obtengas</strong><br />
+Una forma interesante de diferenciarse es dar una parte de las ganancias a una organización benéfica que apoyes. Tras los meses de caos consumista en el que se convierten las fiestas, muchas personas se alegran de ver que parte de su dinero invertido va destinado a buenas causas.</p>
+<p><strong>Compra uno, y consigue esto gratis</strong><br />
+Si dispones de exceso de inventario que vender, considera ofrecer un producto gratis con la compra de un artículo por su precio total. Esto funciona muy bien con los productos perecederos o sensibles al paso del tiempo, como artículos de ropa de temporada: incluye una bufanda estampada por cada par de pantalones vaqueros comprados por su precio total. Incluso si sólo cubres los gastos de esos artículos, habrás ahorrado costes de inventario y espacio en las estanterías, vendiendo los productos que se habrían ido directamente a la basura.</p>
+<p><strong>Crea lotes</strong><br />
+Si tienes productos gratuitos de los que necesitas deshacerte, tal vez te pueda interesar crear lotes y sugerírselos a los clientes que hayan comprado un artículo similar. Los accesorios y recambios son buenos candidatos para ello: púas y cuerdas para una guitarra nueva; cargadores, adaptadores y fundas para teléfonos. Mezcla y combina para ver lo que mejor funciona en tu negocio.</p>
+<p><strong>Un buen concurso a la antigua usanza</strong><br />
+Despierta el interés con un concurso: pídele a los clientes que envíen sus fotos preferidas de las fiestas, o la mejor foto utilizando tu producto. Todo aquel que participe, gana. Aunque sea un 5% de descuento en su próxima compra. Utiliza el concurso para promocionar un producto nuevo o el producto más vendido y premia con uno de estos al ganador.</p>
+<p><strong>Da las gracias</strong><br />
+El éxito de tu tienda se basa fundamentalmente en la fidelidad de tus clientes. Entonces, ¿por qué no darles las gracias a tus clientes por un año tan maravilloso? Ofréceles un pequeño descuento que puedan pasar a sus amigos y familiares. Les dará un motivo para visitar tu tienda en enero e incluso podría atraer a algunos nuevos visitantes.</p>
+<p><strong>Sin descuentos: un nuevo producto para el nuevo año</strong><br />
+El lanzamiento de un nuevo producto es una manera perfecta para atraer la atención de los clientes sin bajar los precios. Tendrás que ser organizado para llevarlo a cabo, pero si lo haces bien, aprovecharás sin duda todas las ventajas del año nuevo para causar un gran impacto.</p>
+<h2 style="color: #5e8f71">Lecciones y resoluciones</h2>
+<p>La temporada posvacacional es también un buen momento para hacer un balance del pasado año con el fin de prepararse para el que viene. Aunque sin duda aplicarás descuentos en algunos artículos y trabajarás para hacer hueco a los nuevos productos, es muy importante que te tomes tu tiempo para llevar a cabo un trabajo de marketing que te ayudará a encauzarte hacia la PRÓXIMA época navideña.</p>
+<p><strong>Aprovecha tu información</strong><br />
+La temporada navideña te habrá proporcionado una gran cantidad de información sobre tus clientes. Puedes utilizarla para segmentar tu lista de contactos y enviar ofertas personalizadas de productos que quieras vender a los clientes que sepas que estarán interesados. Por ejemplo, si sabes quién compró un teléfono este año, envíale un correo electrónico ofreciéndole un lote de accesorios. O si tienes una tienda de ropa con demasiados artículos de unas pocas tallas en concreto, envía ofertas dirigidas a clientes que sabes que han comprado esas tallas previamente. Evitarás agobiar a los clientes con ofertas que no les interesen.</p>
+<p><strong>Presta atención a los patrones de compra</strong><br />
+Habrás aprendido mucho sobre tus clientes estas Navidades, pero también sobre tus productos. ¿Qué se está vendiendo por su precio total? ¿Qué se rebaja? Utiliza esta información para enfocar tu estrategia de marketing y evaluar qué productos deberías rebajar y cuáles mantener durante todo el año.</p>
+<ul style="margin-left: 30px">
+<li><strong style="color: #5e8f71">Productos mejor vendidos:</strong> Las Navidades probablemente te hayan dado una buena idea sobre qué productos desea comprar la gente por su precio total. Estos son buenos artículos para crear lotes y promociones ahora y sobre los que centrar los esfuerzos de marketing durante todo el año.</li>
+<li><strong style="color: #5e8f71">Productos prometedores:</strong> ¿Algunos productos atraen mucho la atención pero se venden poco? Intenta promocionarlos con una pequeña rebaja posvacacional o simplemente haz que sean el centro de atención cuando te comuniques con los clientes.</li>
+<li><strong style="color: #5e8f71">Productos problemáticos:</strong> Si algunos productos sólo se venden bien cuando tienen descuento, podría ser hora de retirarlos. Las rebajas después de las vacaciones son una gran oportunidad para hacer una categoría de &#8220;limpieza&#8221; especial. Estos son productos que podrían encajar muy bien en lotes.</li>
+</ul>
+<p><strong>No te olvides de los carritos abandonados</strong><br />
+Hay muchos clientes que utilizan el carrito en vez de la lista de deseos. A menudo esperan recibir un recordatorio sobre su carrito, así que no dejes pasar esta oportunidad para seguir y recuperar aquellas ventas incompletas.</p>
+<p><strong>Demuestra tus habilidades sociales</strong><br />
+Puede que las fiestas ya hayan acabado, pero no dejes de lado tus estrategias de marketing todavía. Utiliza los medios sociales para seguir dando de qué hablar. Si decides incorporar una donación caritativa, los medios sociales son una gran manera de involucrar a tus clientes y crear conciencia. Lo mismo ocurre si decides realizar un concurso tras las fiestas.</p>
+<p><strong>Es hora de retirar la decoración navideña (¡y las ofertas!)</strong><br />
+Esto es algo fácil de hacer, pero también es fácil pasarlo por alto. Desgraciadamente, las consecuencias de olvidarse de esto podrían ser devastadoras para tu reputación y para tu balance final. Si prometiste gastos de envío gratis durante las fiestas, asegúrate de retirarlos de tus herramientas de promoción si no planeas continuar con esa opción durante el nuevo año. ¿Garantizaste un precio demasiado bajo durante las fiestas que ahora entrará en conflicto con las rebajas? Haz esto ahora para que puedas continuar con cosas más importantes.</p>
+<h2 style="color: #5e8f71">Puntos clave</h2>
+<ul style="margin-left: 30px">
+<li>Personaliza el proceso de cambios y devoluciones.</li>
+<li>Utiliza incentivos para convertir devoluciones en cambios o incluso en compras.</li>
+<li>Evita depender exclusivamente de grandes descuentos; presenta ofertas creativas.</li>
+<li>Da las gracias a tus clientes.</li>
+<li>Utiliza la información para segmentar clientes y enfocar tus estrategias de marketing.</li>
+<li>Analiza el rendimiento del producto de acuerdo con el mercado.</li>
+<li>Haz un seguimiento de los carritos abandonados.</li>
+<li>Hazte visible en las redes sociales este nuevo año.</li>
+<li>Repasa lo prometido durante las fiestas y quita las decoraciones.</li>
+</ul>
+<p>Las fiestas han terminado, pero el nuevo año acaba de empezar. ¿Qué estás haciendo para que se convierta en un gran año? ¿Has intentado alguna de nuestras sugerencias? ¡Haznos saber lo que te ha funcionado!</p>
+<hr align="left" size="2" width="20%" />
+<p>¿Estás preparado para hacer del 2015 tu mejor año? Empieza con nuestro <a href="http://www.prestashop.com/es/calendario-ecommerce">calendario e-commerce 2015</a> actualizado. En él encontrarás todo lo necesario para que prepares tu año, desde consejos de expertos hasta fechas clave de ventas.</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/3-remedios-para-la-cuesta-de-enero-en-el-comercio-electronico/">3 remedios para la cuesta de enero en el comercio electrónico</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/3-remedios-para-la-cuesta-de-enero-en-el-comercio-electronico/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5 tendencias de diseño Ecommerce para el 2015</title>
+		<link>https://www.prestashop.com/blog/es/5-tendencias-de-diseno-ecommerce-para-el-2015/</link>
+		<comments>https://www.prestashop.com/blog/es/5-tendencias-de-diseno-ecommerce-para-el-2015/#comments</comments>
+		<pubDate>Mon, 19 Jan 2015 17:22:37 +0000</pubDate>
+		<dc:creator><![CDATA[Juan Manuel Molina]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=12467</guid>
+		<description><![CDATA[<p>¿Actualizar el diseño de tu tienda online es uno de tus objetivos en 2015? ¡Estás de suerte! PrestaShop ha seleccionado algunos ejemplos de tendencias en diseño web ecommerce para el nuevo año. Puedes usar esta guía para la búsqueda de plantillas y módulos, o para hablar el mismo idioma que tu diseñador. 1. Imágenes en [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/5-tendencias-de-diseno-ecommerce-para-el-2015/">5 tendencias de diseño Ecommerce para el 2015</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>¿Actualizar el diseño de tu tienda online es uno de tus objetivos en 2015? ¡Estás de suerte! PrestaShop ha seleccionado algunos ejemplos de tendencias en diseño web ecommerce para el nuevo año. Puedes usar esta guía para la búsqueda de plantillas y módulos, o para hablar el mismo idioma que tu diseñador.<br />
+<span id="more-12467"></span></p>
+<h2 style="color: #45394d">1. Imágenes en pantalla completa</h2>
+<p>El uso de grandes imágenes no sólo queda restringido a los slider de tu página principal. Si tu negocio online tiene unas fotografías espectaculares, no dudes en utilizarlas siempre que puedas. <span style="font-style: italic">The New World Order NYC</span> los utiliza como fondo en las páginas de producto.</p>
+<p style="text-align: center"><a href="http://www.suncoo-paris.com/en/" target="_blank"><img class="aligncenter  wp-image-19361" style="border: 1px solid #dce1e5" title="Suncoo Paris" alt="Suncoo Paris" src="http://www.prestashop.com/blog/es/files/2015/01/big-image-suncoo-paris.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.basus.fr/en/" target="_blank"><img class="aligncenter size-full wp-image-19357" style="border: 1px solid #dce1e5" title="Basus" alt="Basus" src="http://www.prestashop.com/blog/es/files/2015/01/big-images-basus.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.menzclub.com.au/" target="_blank"><img class="aligncenter  wp-image-19358" style="border: 1px solid #dce1e5" title="Menzclub" alt="Menzclub" src="http://www.prestashop.com/blog/es/files/2015/01/big-images-menzclub.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.tb-groupe.fr/" target="_blank"><img class="aligncenter  wp-image-19359" style="border: 1px solid #dce1e5" title="TB Groupe" alt="TB Groupe" src="http://www.prestashop.com/blog/es/files/2015/01/big-images-tb-groupe.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://thenewworldordernyc.com/" target="_blank"><img class="aligncenter  wp-image-19360" style="border: 1px solid #dce1e5" title="The New World Order NYC" alt="The New World Order NYC" src="http://www.prestashop.com/blog/es/files/2015/01/big-images-thenewworldordernyc.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.april77.fr/en/" target="_blank"><img class="aligncenter  wp-image-19362" style="border: 1px solid #dce1e5" title="April77" alt="April77" src="http://www.prestashop.com/blog/es/files/2015/01/big-screen-april77.png" width="657" height="400" /></a></p>
+<p style="text-align: center;margin-bottom: 70px"><a href="http://www.bimbaylola.com/" target="_blank"><img class="aligncenter  wp-image-19363" style="border: 1px solid #dce1e5" title="Bimba y lola" alt="Bimba y lola" src="http://www.prestashop.com/blog/es/files/2015/01/big-screen-bimba-y-lola.png" width="657" height="400" /></a></p>
+<h2 style="color: #45394d">2. Colores brillantes, flat design y material design</h2>
+<p>2014 fue el año del <a href="http://www.awwwards.com/websites/flat-design/" target="_blank">Flat Design</a>, caracterizado por el uso de colores planos, diseño minimalista y tipografía simple, eliminando la impresión tridimensional del diseño. Por su parte, Google presentó el <a href="http://www.google.com/design/spec/material-design/introduction.html" target="_blank">Material Design</a>, que se inspira en las texturas del papel para crear una ligera sensación de profundidad. Ambas tendencias usan colores vivos y llamativos, atrévete a usarlos sobretodo si tu marca es joven y divertida.</p>
+<p style="text-align: center"><a href="http://www.m-moustache.com/en/robert/169-leon-cuir-noir.html" target="_blank"><img class="aligncenter  wp-image-19371" style="border: 1px solid #dce1e5" title="M Moustache" alt="M Moustache" src="http://www.prestashop.com/blog/es/files/2015/01/colors-m-moustache2.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.m-moustache.com/en/robert/169-leon-cuir-noir.html" target="_blank"><img class="aligncenter  wp-image-19370" style="border: 1px solid #dce1e5" title="M Moustache" alt="M Moustache" src="http://www.prestashop.com/blog/es/files/2015/01/colors-m-moustache.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.loobow.fr/103-wc-couleur-jaune-gamme-yellow-cab" target="_blank"><img class="aligncenter  wp-image-19369" style="border: 1px solid #dce1e5" title="Loobow" alt="Loobow" src="http://www.prestashop.com/blog/es/files/2015/01/colors-loobow.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.bioseptyl.fr/brosses-a-dents-adultes/8-blanche-nurse.html" target="_blank"><img class="aligncenter  wp-image-19368" style="border: 1px solid #dce1e5" title="Bioseptyl" alt="Bioseptyl" src="http://www.prestashop.com/blog/es/files/2015/01/colors-bioseptyl.png" width="657" height="400" /></a></p>
+<p style="text-align: center;margin-bottom: 70px"><a href="http://www.pa-design.com/en/" target="_blank"><img class="aligncenter  wp-image-19372" style="border: 1px solid #dce1e5" title="pa Design" alt="pa Design" src="http://www.prestashop.com/blog/es/files/2015/01/colors-pa-design.png" width="657" height="400" /></a></p>
+<h2 style="color: #45394d">3. Diseño con tarjetas</h2>
+<p>Tus clientes verán todo lo que necesitan de un vistazo. Convierte cada producto en una pequeña tarjeta de contenido que funciona tanto de forma individual como agrupada. Incluye definiciones y acciones, sin olvidar la interacción más importante: “Comprar ahora”.</p>
+<p style="text-align: center"><a href="http://www.theverge.com/a/holiday-gift-ideas-2014/25-100" target="_blank"><img class="aligncenter  wp-image-19365" style="border: 1px solid #dce1e5" title="The Verge Holiday Gift Ideas" alt="The Verge Holiday Gift Ideas" src="http://www.prestashop.com/blog/es/files/2015/01/cards-the-verge-holiday-gift-ideas.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://wallcaps.fr/fr/" target="_blank"><img class="aligncenter  wp-image-19366" style="border: 1px solid #dce1e5" title="Wallcaps" alt="Wallcaps" src="http://www.prestashop.com/blog/es/files/2015/01/cards-wallcaps.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.wannabk.com/" target="_blank"><img class="aligncenter  wp-image-19367" style="border: 1px solid #dce1e5" title="Wannabek" alt="Wannabek" src="http://www.prestashop.com/blog/es/files/2015/01/cards-wannabek.png" width="657" height="400" /></a></p>
+<p style="text-align: center;margin-bottom: 70px"><a href="http://housen.ro/" target="_blank"><img class="aligncenter  wp-image-19364" style="border: 1px solid #dce1e5" title="Housen" alt="Housen" src="http://www.prestashop.com/blog/es/files/2015/01/cards-housen-ro.png" width="657" height="400" /></a></p>
+<h2 style="color: #45394d">4. Efectos Parallax</h2>
+<p>Es muy probable que al navegar por una web ya te hayas dicho “wouh” por esos fondos e imágenes que se animan activados por tu ratón. El efecto parallax es muy vistoso y es un gran aliado a la hora de presentar un producto, pero presta atención para que no robe protagonismo. Las animaciones deben acompañar las ventas. Manoush consigue a la perfección animar la navegación mostrando algunos de sus estampados en el fondo.</p>
+<p style="text-align: center;margin-bottom: 70px"><a href="http://www.manoush.com/e-shop/" target="_blank"><img class="aligncenter  wp-image-19375" style="border: 1px solid #dce1e5" title="Manoush" alt="Manoush" src="http://www.prestashop.com/blog/es/files/2015/01/parallax-manoush.png" width="657" height="400" /></a></p>
+<h2 style="color: #45394d">5. Botones minimalistas</h2>
+<p>Los botones de diseño minimalista sugieren llamadas a la acción (Call to action) al mismo tiempo se mantienen discretos. Úsalos cuando tu mensaje esté sobre una fotografía. Son especialmente útiles en los carruseles de imágenes (slider) de la página principal.</p>
+<p style="text-align: center"><a href="http://www.zeina-alliances.com/" target="_blank"><img class="aligncenter  wp-image-19374" style="border: 1px solid #dce1e5" title="Zeina" alt="Zeina" src="http://www.prestashop.com/blog/es/files/2015/01/minimal-buttons-zeina.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.oelwein.fr/fr/" target="_blank"><img class="aligncenter  wp-image-19373" style="border: 1px solid #dce1e5" alt="Oelwein" src="http://www.prestashop.com/blog/es/files/2015/01/minimal-buttons-oelwein.png" width="657" height="400" /></a></p>
+<h4 style="color: #73bd43">Resumen tendencias 2015:</h4>
+<p><strong style="color: #73bd43">1.</strong> Usa imágenes calidad como fondo a pantalla completa</p>
+<p><strong style="color: #73bd43">2.</strong> Flat y material design seguirán siendo tendencia en 2015</p>
+<p><strong style="color: #73bd43">3.</strong> Usa tarjetas para presentar el contenido relevante de un vistazo</p>
+<p><strong style="color: #73bd43">4.</strong> Sé prudente con parallax</p>
+<p><strong style="color: #73bd43">5.</strong> Simplifica tus botones para mantener la atención en las imágenes</p>
+<p>Estas son sólo algunas de las tendencias en diseño web para comercio online que van a marcar 2015. ¿Cuál de ellas crees que vas a aplicar a tu web? Descubre cuál es mejor para tí y renueva el look de tu tienda online con alguno de <a href="http://addons.prestashop.com/es/3-temas-prestashop" target="_blank">nuestros temas</a> o contactando alguna de nuestras agencias de <a href="http://www.prestashop.com/es/asociados-agencia-web" target="_blank">diseño web asociadas</a>.</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/5-tendencias-de-diseno-ecommerce-para-el-2015/">5 tendencias de diseño Ecommerce para el 2015</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/5-tendencias-de-diseno-ecommerce-para-el-2015/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Calendario del comercio electrónico: 52 secretos para triunfar en 2015</title>
+		<link>https://www.prestashop.com/blog/es/calendario-del-comercio-electronico-52-secretos-para-triunfar-en-2015/</link>
+		<comments>https://www.prestashop.com/blog/es/calendario-del-comercio-electronico-52-secretos-para-triunfar-en-2015/#comments</comments>
+		<pubDate>Thu, 08 Jan 2015 08:59:53 +0000</pubDate>
+		<dc:creator><![CDATA[Cécile Dubouis]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=12363</guid>
+		<description><![CDATA[<p>¡Nosotros nos ocupamos de todo para que puedas cumplir tus buenos propósitos! Sabemos que las promesas de Año Nuevo suelen durar aproximadamente hasta el 15 de enero. Reconozcámoslo: ¡nunca pasamos de ahí! Por eso en 2015 estaremos contigo durante las 52 semanas del año. Porque sabemos lo difícil que es anticiparse y priorizar cuando tienes [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/calendario-del-comercio-electronico-52-secretos-para-triunfar-en-2015/">Calendario del comercio electrónico: 52 secretos para triunfar en 2015</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>¡Nosotros nos ocupamos de todo para que puedas cumplir tus buenos propósitos!</p>
+<p>Sabemos que las promesas de Año Nuevo suelen durar aproximadamente hasta el 15 de enero. Reconozcámoslo: ¡nunca pasamos de ahí!<br />
+Por eso en 2015 estaremos contigo durante las 52 semanas del año.<br />
+<span id="more-12363"></span><br />
+Porque sabemos lo difícil que es anticiparse y priorizar cuando tienes que hacer una docena de trabajos a la vez. ¿Acaso no tienes que ser desarrollador, contable, diseñador, redactor, comercial y mil cosas más?<br />
+Porque nuestra misión es ayudarte a que tu proyecto de e-commerce tenga éxito.<br />
+Y porque queremos estar a tu lado, sin más.</p>
+<p>Estamos encantados de poder ofrecerte este <a href="http://www.prestashop.com/es/calendario-ecommerce" target="_blank">calendario de e-commerce para 2015</a> <strong>detallado semana por semana y adaptado a tu país.</strong></p>
+<h2 style="color: #4d7e3d;">Doce páginas para tener éxito todo el año</h2>
+<p><strong>Cada semana encontrarás un consejo nuevo: </strong> para mejorar el tráfico, las conversiones y la experiencia del usuario, para que el valor de tu carrito suba como la espuma, para fidelizar a tus clientes&#8230;</p>
+<p>Y para facilitarte la vida, te proponemos una <strong>selección de herramientas</strong> para todo tipo de tareas, desde crear promociones o mejorar tu comunicación a ahorrar tiempo en la gestión.</p>
+<p>¿Se acerca <strong>una importante cita comercial</strong>? ¿Llegan las rebajas, Navidad, el Día de la Madre o el Black Friday? ¡No te preocupes! Este año tienes todas las claves para anticiparte y saber <strong>cuándo y cómo empezar a preparar</strong> tu tienda online.</p>
+<p>Además, cada mes un vendedor PrestaShop te revelará <strong>uno de los secretos</strong> de su éxito.</p>
+<p>&#8230;y si no levantas el pie de vez en cuando, ¡te recordaremos que hay que descansar!</p>
+<h2 style="color: #4d7e3d;">Personaliza tu calendario</h2>
+<p>Estos consejos son solo sugerencias de expertos para darle vida a tu tienda y ayudarte con la organización. Y te ayudarán a ver tu tienda con otros ojos.</p>
+<p>Pero también incluye secciones que hay que rellenar. Y debes hacerlo tú.<br />
+<strong>Tu tienda es única.</strong> ¿Quién puede conocer mejor que tú a tus clientes, tus productos y tu universo? Empieza a rellenar el calendario con actividades relacionadas con tu sector que te gustaría realizar.</p>
+<h2 style="color: #4d7e3d;">Las cifras</h2>
+<h4>Las cifras del calendario de comercio electrónico para 2015:</h4>
+<ul style="margin: 0 0 0 15px;">
+<li>0 céntimos. ¡Eso es lo que cuesta descargarlo!</li>
+<li>1 calendario circular para que localices los puntos álgidos del año de un vistazo</li>
+<li>8 países disponibles (Francia, España, Estados Unidos, Italia, Alemania, Países Bajos, Reino Unido y Polonia)</li>
+<li>12 páginas personalizadas con los secretos mejor guardados de los vendedores online</li>
+<li>52 consejos de comercio electrónico (o alguno más, según el país)</li>
+<li>327 auditorías de tiendas online. ¡Estos estudios que hemos hecho de vuestras tiendas son los que nos dieron la idea para hacer el calendario!</li>
+</ul>
+<p>El próximo año esperamos poder ofreceros este calendario para más países.<br />
+¿Te gustaría contribuir?<br />
+¿Quieres compartir trucos con otros vendedores locales o informarnos sobre las fechas señaladas de tu país? ¡Escríbenos a <a href="calendar@prestashop.com">calendar@prestashop.com</a>!</p>
+<p>Nuestro agradecimiento a <a title="Pagination.com" href="http://www.pagination.com" target="_blank">Pagination.com</a> por su ayuda en la integración de la plantilla y los datos.</p>
+<p>¡Que 2015 sea magnífico para todos y llegue cargado de éxitos comerciales!</p>
+<p style="text-align: center; font-size: 18px;"><a href="http://www.prestashop.com/es/calendario-ecommerce" target="_blank">Descargar mi calendario ahora</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/calendario-del-comercio-electronico-52-secretos-para-triunfar-en-2015/">Calendario del comercio electrónico: 52 secretos para triunfar en 2015</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/calendario-del-comercio-electronico-52-secretos-para-triunfar-en-2015/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Descubre y descarga la nueva versión PrestaShop v1.6.0.11. ¡No lo dejes para más tarde!</title>
+		<link>https://www.prestashop.com/blog/es/descubre-y-descarga-la-nueva-version-prestashop-v1-6-0-11-no-lo-dejes-para-mas-tarde/</link>
+		<comments>https://www.prestashop.com/blog/es/descubre-y-descarga-la-nueva-version-prestashop-v1-6-0-11-no-lo-dejes-para-mas-tarde/#comments</comments>
+		<pubDate>Wed, 07 Jan 2015 14:53:52 +0000</pubDate>
+		<dc:creator><![CDATA[Quentin Audrain]]></dc:creator>
+				<category><![CDATA[Actualidad PrestaShop]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=12379</guid>
+		<description><![CDATA[<p>PrestaShop 1.6.0.11 ya está aquí Empezamos 2015 deseándote un magnífico año. Y para comenzar con buen pie, ya puedes descargar PrestaShop 1.6.0.11. Queremos dar las gracias a toda la comunidad que nos ha ayudado a probar, corregir y mejorar esta nueva versión. ¡Lo hemos conseguido gracias a vosotros! ¡Cientos de novedades! Prepárate para las más [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/descubre-y-descarga-la-nueva-version-prestashop-v1-6-0-11-no-lo-dejes-para-mas-tarde/">Descubre y descarga la nueva versión PrestaShop v1.6.0.11. ¡No lo dejes para más tarde!</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<h4><span style="color: #2f5288;">PrestaShop 1.6.0.11 ya está aquí</span></h4>
+<p>Empezamos 2015 deseándote un magnífico año. Y para comenzar con buen pie, ya puedes descargar PrestaShop 1.6.0.11.<br />
+Queremos dar las gracias a toda la comunidad que nos ha ayudado a probar, corregir y mejorar esta nueva versión. ¡Lo hemos conseguido gracias a vosotros!</p>
+<p><span id="more-12379"></span></p>
+<h4><span style="color: #2f5288;">¡Cientos de novedades!</span></h4>
+<p>Prepárate para las <strong>más de 300 mejoras</strong> y novedades que presenta esta nueva versión. Encontrarás todos los detalles en nuestra sección de <a title="Changelog" href="http://www.prestashop.com/es/versiones-para-programadores/registro-de-cambios/1.6.0.11" target="_blank">cambios de la versión</a> pero mientras tanto, aquí tienes un adelanto con los avances más destacados:</p>
+<ul style="padding-left: 30px;">
+<li>Perfeccionamiento de la gestión de impuestos y redondeos</li>
+<li>Mejora de los descuentos para precios específicos y de la gestión de precios antes de impuestos y con los impuestos incluidos</li>
+<li>Un nuevo paquete de localización para Costa Rica</li>
+<li>Posibilidad de gestionar los pedidos en BO en modo catálogo</li>
+<li>Importante actualización del módulo Wishlist</li>
+<li>Actualización de los impuestos y estados de Canadá</li>
+</ul>
+<h4><span style="color: #2f5288;">Gestión de impuestos y redondeos</span></h4>
+<p>Es LA gran novedad de esta versión. PrestaShop gestiona ahora mucho mejor los impuestos y los redondeos y te da la posibilidad de escoger las opciones de configuración. Estas son las principales novedades:</p>
+<ul style="padding-left: 30px;">
+<li>Método de cálculo de los impuestos por producto, por línea de productos o para el total de productos.</li>
+<li>Se añaden funciones de gestión de redondeos: <em>Half_Up</em> redondea al número entero más cercano y los métodos <em><a title="Round half to even" href="http://en.wikipedia.org/wiki/Rounding#Round_half_to_even" target="_blank">Half_Even o Banker Rounding</a></em> redondean al número par más cercano.</li>
+<li>Posibilidad de definir el número de decimales que desees. Esta selección determinará el número de decimales utilizados en todos los cálculos de precios de tu tienda</li>
+</ul>
+<p>¡En nuestra <a href="http://doc.prestashop.com/display/PS16/General+Preferences" target="_blank">documentación</a> encontrarás todo lo que necesitas saber para efectuar los cambios!</p>
+<p>No lo dudes más: ¡aprovecha los primeros compases del año para actualizar tu tienda!</p>
+<p>&gt; <strong><a title="Descarga" href="http://www.prestashop.com/es/descarga">Descarga PrestaShop 1.6.0.11</a></strong><br />
+&gt; <strong><a title="Update" href="http://doc.prestashop.com/display/PS16/Updating+PrestaShop" target="_blank">Consulta nuestra guía de actualización</a></strong></p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/descubre-y-descarga-la-nueva-version-prestashop-v1-6-0-11-no-lo-dejes-para-mas-tarde/">Descubre y descarga la nueva versión PrestaShop v1.6.0.11. ¡No lo dejes para más tarde!</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/descubre-y-descarga-la-nueva-version-prestashop-v1-6-0-11-no-lo-dejes-para-mas-tarde/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cómo desarrollar personajes de compradores para las iniciativas de marketing relacionadas con el comercio electrónico B2C</title>
+		<link>https://www.prestashop.com/blog/es/como-desarrollar-personajes-de-compradores-para-las-iniciativas-de-marketing-relacionadas-con-el-comercio-electronico-b2c/</link>
+		<comments>https://www.prestashop.com/blog/es/como-desarrollar-personajes-de-compradores-para-las-iniciativas-de-marketing-relacionadas-con-el-comercio-electronico-b2c/#comments</comments>
+		<pubDate>Tue, 06 Jan 2015 13:15:46 +0000</pubDate>
+		<dc:creator><![CDATA[Kunle Campbell (Guest Contributor)]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=12367</guid>
+		<description><![CDATA[<p>El personaje del comprador es un cliente ficticio que se parece mucho a tu cliente ideal. La construcción de un personaje &#8220;humano&#8221; creíble hace que sea mucho más fácil comprender y empatizar con tus clientes, por lo que la creación de los personajes de compradores debe ser tu primer paso. Deben estar preparados en la [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/como-desarrollar-personajes-de-compradores-para-las-iniciativas-de-marketing-relacionadas-con-el-comercio-electronico-b2c/">Cómo desarrollar personajes de compradores para las iniciativas de marketing relacionadas con el comercio electrónico B2C</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>El personaje del comprador es un cliente ficticio que se parece mucho a tu cliente ideal. La construcción de un personaje &#8220;humano&#8221; creíble hace que sea mucho más fácil comprender y empatizar con tus clientes, por lo que la creación de los personajes de compradores debe ser tu primer paso. Deben estar preparados en la etapa de planificación del contenido de marketing o de las campañas en los medios sociales.</p>
+<p>En lugar de citar una gran cantidad de datos estadísticos asépticos, puedes utilizar estos datos para crear un personaje de comprador, a continuación interiorizar el cliente al que estás tratando de atraer, y relacionar estos datos con los clientes en calidad de seres humanos.<br />
+<span id="more-12367"></span></p>
+<h4><span style="color: #2f5288;">¿En qué se diferencia un personaje de la definición de un cliente ideal?</span></h4>
+<p>Supongamos que analizas algunos hechos acerca de tus clientes más rentables; por lo general, tienen entre 30 y 45 años, residen habitualmente en el sur de Londres y la mayoría son hombres. Si estos hechos describen a tus clientes más rentables, entonces describen también a las personas para las cuales deberías estar optimizando tus campañas de marketing. Estas son las personas que deseas como seguidores de Twitter y amigos de Facebook, y de las cuales esperas que tengan una respuesta natural positiva a los correos electrónicos y otro tipo de acciones de marketing. Aunque es difícil imaginarlos al crear contenido si todo lo que tienes enfrente son frías estadísticas.</p>
+<p>Conoce ahora a Greg. Greg es un hombre de 39 años de edad del sur de Londres que está interesado en tu producto. Incluso esta descripción básica hace que sea más fácil poner cara a un nombre; sin embargo, en esto consiste un personaje de comprador, es decir, un personaje de ficción que personifica a tu cliente ideal. Ahora, en lugar de preguntar: &#8220;¿Se comportará bien esto con X dato demográfico?&#8221;, puedes preguntarte, &#8220;¿Le gustará esto a Greg?&#8221;.</p>
+<h4><span style="color: #2f5288;">¿Cuántos personajes de clientes necesitas?</span></h4>
+<p>Tener solo un personaje de cliente probablemente presenta demasiados límites. Muchos expertos recomiendan crear entre tres y cinco personajes de clientes, un número lo suficientemente grande como para representar la variedad inherente de un público bastante grande, pero lo suficientemente pequeño para retener el valor de especificidad.</p>
+<h4><span style="color: #2f5288;">¿Cómo vas a crear un personaje?</span></h4>
+<p><span style="color: #e9705d;"><strong>Comienza con una tarjeta de visita</strong></span></p>
+<p>Una manera de hacer un personaje de cliente es comenzar con una plantilla de tarjeta de visita y rellenar los espacios en blanco para tu cliente ideal. Quieres determinar:</p>
+<ul style="margin: 0 0 0 30px;">
+<li>Nombre</li>
+<li>Cargo</li>
+<li>Ubicación</li>
+</ul>
+<p><span style="color: #e9705d;"><strong>Añadir una ficha</strong></span></p>
+<p>Después de eso, añadir una ficha con:</p>
+<ul style="margin: 0 0 0 30px;">
+<li>Edad</li>
+<li>Género</li>
+<li>Familia</li>
+<li>Formación</li>
+<li>Carrera</li>
+</ul>
+<p><span style="color: #e9705d;"><strong>Esperanzas, miedos y valores</strong></span><br />
+A continuación, trata de imaginar las esperanzas, los temores y los valores de tu cliente. Es aún mejor si puedes superar los límites de tu imaginación. Una gran manera de obtener este tipo de datos es el uso de cuestionarios y encuestas en Facebook y en tu sitio. La gente adora este tipo de cuestionarios y generan compromiso constantemente, además de proporcionar los datos necesarios para crear personajes de compradores parecidos a la realidad.</p>
+<p><span style="color: #e9705d;"><strong>El discurso del ascensor</strong></span><br />
+Por último, añade un &#8220;discurso del ascensor&#8221;, uno adaptado específicamente a este cliente. Dedica el tiempo necesario. Aunque es probable que nunca lo utilices &#8220;tal cual&#8221;, te dará una idea clara de lo que quieres decir a este cliente, y dicha claridad se transmitirá a otros mensajes.</p>
+<h4><span style="color: #2f5288;">Dar vida a los personajes</span></h4>
+<p>Probablemente te darás cuenta de que a medida que desarrollas tus personajes, deberás responder a otras preguntas para darles vida. Algunas de estas preguntas pueden incluir:</p>
+<p><span style="color: #e9705d;"><strong>Conocimientos de informática.</strong> </span>¿Son tus clientes ideales &#8220;nativos digitales&#8221; o se acercan de forma prudente a las nuevas tecnologías? ¿Qué grado de precisión puedes lograr en este sentido? Será de gran ayuda al diseñar tus herramientas de marketing.</p>
+<p><span style="color: #e9705d;"><strong>Aficiones.</strong></span> ¿Cómo se divierte tu cliente? Esta es una manera importante para humanizar los personajes que estás creando, pero también es un medio eficaz para crear una imagen más completa y conseguir tanto profundidad de contexto como detalles útiles. Una vez más, se trata de información que tus contactos sociales no tendrán problema en divulgar a través de encuestas u otras interacciones.</p>
+<p><span style="color: #e9705d;"><strong>Nuevas fuentes.</strong></span> ¿Lee Greg (¿recuerdas a Greg?) <em>The Economist</em>, <em>The Guardian</em> o <em>Men’s Health</em>? ¿Espera a sus fuentes de noticias sentado en el porche o está suscrito a fuentes RSS? ¿Visita los mismos sitios web de noticias todos los días?</p>
+<p>Este es un comportamiento &#8220;indicador&#8221;. Te indica sobre qué se preocupa Greg y cómo consigue informarse, y también te da pistas más amplias acerca de qué tipo de persona es, tanto por sus fuentes de noticias preferidas (Fox News atrae a los políticamente conservadores, mientras que los lectores de Huffington Post suelen ser más liberales) como por los formatos escogidos.</p>
+<p><span style="color: #e9705d;"><strong>Las citas reales de clientes reales</strong>,</span> extraídas de entrevistas, encuestas, comentarios en línea u otras fuentes, son una mina de oro de información útil. Nada va a humanizar más a tu personaje que las aportaciones humanas reales.</p>
+<h4><span style="color: #2f5288;">Fuentes de datos</span></h4>
+<p>¿Dónde debes obtener la información que necesitas para crear los personajes?</p>
+<p>Puedes buscar en estos tres lugares:</p>
+<p>Comprueba el <span style="color: #e9705d;"><strong>análisis del tráfico existente de tu sitio</strong></span>. El análisis del sitio te mostrará de dónde vienen tus clientes, las palabras clave que utilizan para encontrarte, cuánto tiempo pasan en el sitio una vez que llegan, qué visitan y por cuánto tiempo, cuánto gastan y en qué gastan más. Este conjunto de datos muestra quién es tu público, qué desea y cómo va a conseguirlo.</p>
+<p><span style="color: #e9705d;"><strong>Investigación de tus medios de comunicación social.</strong></span> Utiliza las habilidades de escucha de los medios de comunicación sociales para construir una imagen de tus clientes a través de sus interacciones en Facebook y Twitter con tu marca. Respecto a las perspectivas minoristas específicas, especialmente las relacionadas con los gustos, rechazos, apetencias e ideas de tus clientes, Pinterest tiene cada vez más valor.</p>
+<p><span style="color: #e9705d;"><strong>Realiza preguntas</strong> </span>a tu público. Tus clientes se conocen a sí mismos. Ellos saben lo que quieren y lo que les gusta. Si les das la oportunidad, estarán encantados de decírtelo. Utiliza encuestas, entrevistas y cuestionarios para recopilar datos que te permitan crear personajes de marketing eficaces. Un personaje es una ficción, pero para ser útil debe estar enraizado en la verdad. Los datos reales revelarán dicha verdad, por lo que cuantos más datos procedan de los clientes, mejor.</p>
+<p>Cuando adoptas decisiones sobre cómo orientar tus iniciativas de marketing, casi debes sentir que el personaje de tu cliente está en la habitación contigo. Del mismo modo que sabes lo que le gusta a tu mejor amigo, debe saber si a tu personaje de cliente le va a gustar, lo va odiar o lo va a adorar. ¡Y no te olvides de poner nombre a tus personajes!</p>
+<h4>Sobre Kunle:</h4>
+<p>Kunle Campbell es una asesoría especializada en marketing para comercio electrónico que trabaja con empresas online de tamaño medio. Contribuye a impulsar el crecimiento empresarial y el aumento de la rentabilidad mediante la adquisición de clientes (impulsando el tráfico), la optimización de la conversión y el mantenimiento de clientes. Todas estas estrategias se basan en datos y métricas. Puedes leer más artículos de Kunle en su blog <a href="http://www.2xmedia.co/" target="_blank">2x Media</a>. Y también puedes seguirlos en <a href="https://twitter.com/KunleTCampbell" target="_blank">Twitter</a>, <a href="https://plus.google.com/+KunleCampbell/" target="_blank">Google+</a> y <a href="https://www.facebook.com/kunletcampbell" target="_blank">Facebook</a>.</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/como-desarrollar-personajes-de-compradores-para-las-iniciativas-de-marketing-relacionadas-con-el-comercio-electronico-b2c/">Cómo desarrollar personajes de compradores para las iniciativas de marketing relacionadas con el comercio electrónico B2C</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/como-desarrollar-personajes-de-compradores-para-las-iniciativas-de-marketing-relacionadas-con-el-comercio-electronico-b2c/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cómo escoger el mejor nombre de dominio para tu tienda online</title>
+		<link>https://www.prestashop.com/blog/es/como-escoger-el-mejor-nombre-de-dominio-para-tu-tienda-online/</link>
+		<comments>https://www.prestashop.com/blog/es/como-escoger-el-mejor-nombre-de-dominio-para-tu-tienda-online/#comments</comments>
+		<pubDate>Mon, 29 Dec 2014 11:00:17 +0000</pubDate>
+		<dc:creator><![CDATA[Natalie Beigel]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=12278</guid>
+		<description><![CDATA[<p>En el mundo del e-commerce, todo empieza con un nombre de dominio. Se convierte en tu identidad en Internet y es tan importante como la ubicación para una tienda física. Si escoges un mal sitio, tu tienda estará abocada al fracaso. Lo mismo sucede con un nombre de dominio poco acertado. Hoy te explicamos cómo [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/como-escoger-el-mejor-nombre-de-dominio-para-tu-tienda-online/">Cómo escoger el mejor nombre de dominio para tu tienda online</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">En el mundo del e-commerce, todo empieza con un nombre de dominio. Se convierte en tu identidad en Internet y es tan importante como la ubicación para una tienda física. Si escoges un mal sitio, tu tienda estará abocada al fracaso. Lo mismo sucede con un nombre de dominio poco acertado.</p>
+<p style="text-align: left;">Hoy te explicamos cómo escoger un nombre de dominio adecuado para que tu tienda online sea un éxito.</p>
+<p style="text-align: justify;"><span id="more-12278"></span>Hay dos estrategias para bautizar el dominio de un sitio de comercio electrónico: apostar por las palabras clave o por la marca. Tú decides cuál funcionará mejor en tu caso. ¡Empecemos!</p>
+<h4><span style="color: #ff6600;">Nombres de dominio con palabras clave</span></h4>
+<p style="text-align: justify;">La forma más fácil de empezar es hacer una lista de 15 o 20 palabras clave relacionadas con tus productos. Por ejemplo, si vendes mobiliario puede que te interese usar la palabra &#8220;casa&#8221; en tu nombre de dominio. ¿Y si tienes una tienda de maquillaje? Usarás &#8220;cosmética&#8221;. Ten siempre presentes estos principios:</p>
+<p style="padding-left: 30px; text-align: justify;"><span style="color: #ff6600;">-</span> <strong>Busca frases cortas</strong> &#8211; Con dos o tres palabras clave como mucho<br />
+<span style="color: #ff6600;">-</span> <strong>Asegúrate de que es fácil de escribir, pronunciar y recordar</strong> – Debe sonar bienmémorisable et marquer les esprits.<br />
+<span style="color: #ff6600;">-</span> <strong>Investiga</strong> &#8211; Cuando estés en plena tormenta de ideas, anota cuántas veces se busca cada una de las palabras clave que estés barajando.<br />
+Nota: Los guiones no influirán en las búsquedas del nombre de dominio de tu tienda online pero harán que sea más difícil recordarlo</p>
+<p>Estas son algunas tiendas online PrestaShop con un buen nombre de dominio basado en palabras clave:</p>
+<p style="padding-left: 30px;"><span style="color: #ff6600;">-</span> www.gardenhome.it<br />
+<span style="color: #ff6600;">-</span> www.johnsonspopcorn.com<br />
+<span style="color: #ff6600;">-</span> www.egolf-balls.com<br />
+<span style="color: #ff6600;">-</span> www.tennisbrands.ru</p>
+<h4><span style="color: #ff6600;">Nombres de dominio basados en la marca</span></h4>
+<p style="text-align: justify;">¿Y si decides crear un dominio con el nombre de tu marca y sin esas palabras clave que resultan tan útiles? Tendrás que tener el SEO muy presente y diseñar páginas web que atraigan tráfico. Además, el nombre de tu marca debería encajar con los productos que vendes. Por ejemplo, es probable que una tienda online llamada &#8220;El armario de Natalia&#8221; venda ropa para mujer. Y sí: también ha de ser fácil de escribir, pronunciar y recordar. Asegúrate de que el nombre de tu sitio no se parece demasiado a otros: podrías perder tráfico e incluso podrías estar infringiendo leyes de propiedad intelectual.<br />
+Estas son algunas tiendas online PrestaShop con un buen nombre de dominio basado en la marca:</p>
+<p style="padding-left: 30px;"><span style="color: #ff6600;">-</span> www.shop.heydude.pl/pl/<br />
+<span style="color: #ff6600;">-</span> www.lilac-lane.de/<br />
+<span style="color: #ff6600;">-</span> www.madamechoup.com/<br />
+<span style="color: #ff6600;">-</span> www.fontable.it/</p>
+<h4><span style="color: #ff6600;">Enlaces útiles</span></h4>
+<p style="text-align: justify;">Hemos recopilado unos cuantos enlaces que pueden servirte de inspiración. ¡No dejes de consultarlos!<br />
+Resultan muy útiles: tú escribes las palabras que quieres incluir en tu nombre de dominio y el sitio web te sugiere posibles nombres disponibles formados por esas palabras.</p>
+<p style="padding-left: 30px;"><span style="color: #ff6600;">-</span> <a href="http://www.domainsbot.com/" target="_blank">DomainsBot</a><br />
+<span style="color: #ff6600;">-</span> <a href="http://www.leandomainsearch.com/" target="_blank">Lean Domain Search</a></p>
+<p style="text-align: justify;">¿Ya has decidido tu nombre de dominio? Te recomendamos vivamente recurrir a uno de nuestros socios <a href="http://www.prestashop.com/es/ecommerce-hosting" target="_blank">proveedores de alojamiento</a> para comprar el dominio y alojar tu tienda online PrestaShop.</p>
+<p style="text-align: justify;">Parece que ya estás preparado para lanzarte a la aventura de tener tu propio sitio de e-commerce. ¿Quieres empezar a usar PrestaShop? Crea y gestiona tu tienda online GRATIS <a href="http://www.prestashop.com/es/descarga" target="_blank">¡Descarga PrestaShop hoy mismo!</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/como-escoger-el-mejor-nombre-de-dominio-para-tu-tienda-online/">Cómo escoger el mejor nombre de dominio para tu tienda online</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/como-escoger-el-mejor-nombre-de-dominio-para-tu-tienda-online/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
